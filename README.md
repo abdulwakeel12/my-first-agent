@@ -54,8 +54,6 @@ git clone https://github.com/abdulwakeel12/my-first-agent.git
 cd my-first-agent
 ```
 
-Note: This repository is private, so cloning requires GitHub access.
-
 ### 2. Create a virtual environment
 
 ```bash
